@@ -1,0 +1,76 @@
+ .stockCaltogories .el-tabs__nav .el-tabs__item {
+   padding: 0 40px!important;
+   width: 100px!important;
+ }
+.stockCaltogories .el-tabs__nav .el-tabs__active-bar {
+  margin-left: -35px;
+  padding: 0 40px!important;
+}
+.table-stock {
+	margin-top: 10px;
+}
+.el-table .cell {
+	padding-left: 0!important;
+}
+.el-table th>.cell {
+	font-size: 12px!important;
+}
+.el-table td, .el-table th {
+	padding: 0!important;
+}
+.el-table .sort-caret {
+	left:2px!important;
+}
+/*右侧组件报价/咨询/分析/评论*/
+.quote.el-tabs.el-tabs--top {
+	
+}
+.quote .el-tabs__nav {
+	display: flex;
+	width: 100%;
+}
+.quote .el-tabs__nav .el-tabs__item {
+	padding: 0 20px!important;
+	flex: 1;
+}
+.quote .el-tabs__active-bar.is-top {
+	/*width:0!important;*/
+	padding: 0 20px!important;
+	margin-left: -30px!important;
+	background: #ff9100!important;
+}
+.quote .el-tabs__item.is-top {
+	color: #4a5789!important;
+	font-family: "微软雅黑"!important;
+}
+.quote .el-tabs__item.is-top.is-active {
+	color: #ff9100!important;
+}
+.panKou .el-tabs__header.is-top {
+	
+}
+.pankou .el-tabs__nav-wrap {
+	border-top: 1px #c7ddf5 solid!important;
+	border-bottom: 1px #c7ddf5 solid!important;
+}
+.pankou .el-tabs__item.is-top:last-child {
+	position: relative;
+	/*left: -130px;*/
+}
+.pankou .el-tabs__header {
+	margin-bottom: 5px!important;
+}
+
+.fenshi .line {
+	/*display: none!important;*/
+}
+
+.fenshi .el-tabs__nav.is-top {
+	display: flex!important;
+	width: 100%!important;
+}
+.fenshi .el-tabs__nav .el-tabs__item {
+	flex: 1!important;
+	padding: 0!important;
+	text-align: center!important;
+}

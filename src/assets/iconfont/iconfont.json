@@ -1,0 +1,100 @@
+{
+  "id": "1580134",
+  "name": "securities",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "322252",
+      "name": "咨询",
+      "font_class": "nav1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "813892",
+      "name": "学院",
+      "font_class": "xueyuan",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "2679139",
+      "name": "朋友圈",
+      "font_class": "pengyouquan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3866258",
+      "name": "行情",
+      "font_class": "hangqing-copy",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "4152402",
+      "name": "站内消息",
+      "font_class": "zhanneixiaoxi",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "5809212",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "6120788",
+      "name": "策略",
+      "font_class": "celve",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6176404",
+      "name": "报价",
+      "font_class": "baojia",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "6762496",
+      "name": "icon _ 主菜单 _ 未选中 _ 工",
+      "font_class": "icon_zhucaidan_weixuanzhong_gong",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "7683242",
+      "name": "上箭头",
+      "font_class": "shangjiantou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8645089",
+      "name": "交易",
+      "font_class": "jiaoyi",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "9597962",
+      "name": "上箭头",
+      "font_class": "icon",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11198920",
+      "name": "打新",
+      "font_class": "daxin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
